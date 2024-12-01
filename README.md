@@ -8,4 +8,4 @@ There are four version:
 - Using AdamW optimizer and lorem ipsum datasets
 - Using SOAP optimizer and lorem ipsum datasets
 - Using SOAP optimizer, synthetic number datasets, and larger parameter
-- Using SOAP optimizer, synthetic number datasets, larger parameter, and larger epochs
+- Using SOAP optimizer, synthetic number datasets, smaller parameter, and larger epochs
