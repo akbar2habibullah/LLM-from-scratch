@@ -1,3 +1,5 @@
+![meme](meme.jpg)
+
 # LLM from scratch, no pretrained models, no HF transformers
 
 This is implementation of decoder-only transformer based LLM with next-token prediction objective. This implementation use `tokenizers` library from HF, attention use GQA (Grouped query attention), RMSnorm layer, GeGLU activation function, and RoPE (Rotary positional embedding).
